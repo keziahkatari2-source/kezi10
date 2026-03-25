@@ -3,3 +3,4 @@
 Github is
 . Amazing
 . Fun
+Welcome to the lecture hall
