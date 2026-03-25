@@ -8,4 +8,3 @@ Github is
 
 Welcome to the lecture hall
 
-file:///C:/Users/kezia/Downloads/pic.jpeg
